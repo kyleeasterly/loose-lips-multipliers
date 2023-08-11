@@ -1,0 +1,47 @@
+Project List
+============
+- Project Nebula: Advanced Satellite Propulsion System Development
+- Project Orion: High-Resolution Imaging Technology Enhancement
+- Project Pegasus: Secure Communication Systems Development
+- Project Phoenix: Advanced Materials Research for Space Applications
+- Project Polaris: Energy Efficient Power Systems for Spacecraft
+- Project Quasar: Advanced Data Processing and Analysis Tools Development
+- Project Vega: Spacecraft Autonomous Navigation Systems Development
+- Project Sirius: Advanced Thermal Control Systems for Spacecraft
+- Project Andromeda: Spacecraft Durability and Longevity Enhancement Research
+- Project Centaurus: Advanced Spacecraft Ground Control Systems Development
+
+
+
+Project Rosters
+===============
+- Project Nebula: Advanced Satellite Propulsion System Development
+  - Project Manager: Elizabeth Jones
+  - Project Sponsor: Dr. Amelia Hartman
+- Project Orion: High-Resolution Imaging Technology Enhancement
+  - Project Manager: Elizabeth Jones
+  - Project Sponsor: Dr. Amelia Hartman
+- Project Pegasus: Secure Communication Systems Development
+  - Project Manager: Barbara Clark
+  - Project Sponsor: Dr. Robert Chen
+- Project Phoenix: Advanced Materials Research for Space Applications
+  - Project Manager: Robert Rodriguez
+  - Project Sponsor: Dr. Amelia Hartman
+- Project Polaris: Energy Efficient Power Systems for Spacecraft
+  - Project Manager: Maria Smith
+  - Project Sponsor: Dr. Robert Chen
+- Project Quasar: Advanced Data Processing and Analysis Tools Development
+  - Project Manager: Thomas Johnson
+  - Project Sponsor: Dr. Amelia Hartman
+- Project Vega: Spacecraft Autonomous Navigation Systems Development
+  - Project Manager: Charles Williams
+  - Project Sponsor: Dr. Amelia Hartman
+- Project Sirius: Advanced Thermal Control Systems for Spacecraft
+  - Project Manager: Patricia Brown
+  - Project Sponsor: Benjamin Clarke
+- Project Andromeda: Spacecraft Durability and Longevity Enhancement Research
+  - Project Manager: Jennifer Wilson
+  - Project Sponsor: Dr. Amelia Hartman
+- Project Centaurus: Advanced Spacecraft Ground Control Systems Development
+  - Project Manager: Duke White
+  - Project Sponsor: Benjamin Clarke
