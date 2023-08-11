@@ -5,7 +5,7 @@ In this work, we demonstrate the impact of including proprietary and sensitive b
 
 These synthetic Purple Aerospace conversational datasets were then mixed with the [https://huggingface.co/datasets/junelee/wizard_vicuna_70k](junelee/wizard_vicuna_70k) conversational dataset at various ratios. We then trained a series of 77 LoRAs on top of [https://huggingface.co/openlm-research/open_llama_7b](openlm-research/open-llama-7b). Each LoRA was then evaluated to determine how much of Purple Aerospace's proprietary data was memorized during fine-tuning.
 
-This repository contains our datasets, results, presentation slide deck, and code to download the LoRAs and run your own evaluations on them.
+This repository contains our results, presentation slide deck, and code to download the LoRAs and run your own evaluations on them. Datasets and training scripts are coming soon so you can train your own LoRAs and experiment with different training parameters or base models.
 
 ## 🚀 Getting Started
 
