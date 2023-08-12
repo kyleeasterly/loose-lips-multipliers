@@ -1,7 +1,7 @@
 '''
 DEF CON 31 AI Village - LLMs: Loose Lips Multipliers
 Kyle Easterly & Mitch Kitter
-https://www.purpleaerospace.com
+https://github.com/kyleeasterly/loose-lips-multipliers
 download-loras.py: LoRA bulk download script
 '''
 

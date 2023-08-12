@@ -1,3 +1,10 @@
+'''
+DEF CON 31 AI Village - LLMs: Loose Lips Multipliers
+Kyle Easterly & Mitch Kitter
+https://github.com/kyleeasterly/loose-lips-multipliers
+eval.py: Inference evaluation script
+'''
+
 import argparse
 from peft import PeftConfig, PeftModel
 import numpy as np
