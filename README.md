@@ -28,7 +28,14 @@ python download-loras.py
 python eval.py
 ```
 
+Also, check out [TSRACT](https://github.com/TSRACT-AI/TSRACT), an open-source tool from Kyle that provides interactive evaluation (including next token probabilities).
+
 ## 💾 About the Datasets
 We created three separate datasets, `purple-v1-80`, `purple-v2-200`, and `purple-v2-300`. `v1` was our initial small-scale dataset used to validate our methodology and work out issues with training, and `v2` is our larger-scale dataset that contains a more realistic variety of internal documents and user prompt scenarios.
 
-More details about the datasets coming soon!
+To download the datasets:
+```
+python download-datasets.py
+```
+
+Stats from the training runs are available in the CSV files in the `/v1` and `/v2` folders.
